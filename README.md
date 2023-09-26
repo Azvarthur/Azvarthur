@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azvarthur
 - 👀 I’m interested in CSS, HMTL, JavaScript and Phyton.
-- 🌱 I’m currently learning CSS, HMTL and JavaScript.
+- 🌱 I’m currently learning Phyton, CSS, HMTL and JavaScript.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: arthurazevedo97@gmail.com
 
